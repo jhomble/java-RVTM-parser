@@ -1,0 +1,4 @@
+4
+50
+should  shall  may  must  money  
+;  ,  %  

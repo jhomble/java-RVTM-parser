@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<headings>
+		<minimumlength value="4" />
+		<maximumlength value="50" />
+		<badcharacters>;,.</badcharacters>
+	</headings>
+	<keywords>
+		<keyword>may</keyword>
+		<keyword>will</keyword>
+		<keyword>is responsible for</keyword>
+		<keyword>should</keyword>
+		<keyword>must</keyword>
+		<keyword>shall</keyword>
+	</keywords>
+</configuration>

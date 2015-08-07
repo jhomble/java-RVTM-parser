@@ -1,0 +1,458 @@
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+(U//FOUO) The Contractor shall operate and maintain all operational centers for IC SOG Services.
+
+The Contractor shall manage the configuration of operating systems, applications and architectures and implement a process to accept and incorporate changes to the operational baseline to ensure the operational baseline is properly maintained.
+
+The Contractor shall provide security operations at the IC SOG and for Intelink Services, including activities related to physical, communications, information, and operations security.
+
+The Contractor shall maintain a standard hardware and software infrastructure, to include hardware standardization, standard build and implementation plans, operating systems, databases, and web and application servers.
+
+The contractor shall provide 24 hours, 7 days a week, 365 days a year operations and after-hours trouble resolution.
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+The Contractor shall provide Program and Project management for the following Intelink service lines: Service Operations and Maintenance, Service Desk, Identity and Access Management, Services Migration, and Operational Security and Information Assurance.
+
+The Contractor recognizes that the services under this contract are vital to the Government and must be continued without interruption and that, upon contract expiration, a successor, either the Government or another contractor, may continue them.
+
+(b) The Contractor shall, upon the Contracting Officer's written notice, (1) furnish phase-in, phase-out services for up to 90 days after this contract expires and (2) negotiate in good faith a plan with a successor to determine the nature and extent of phase-in, phase-out services required.
+
+The plan shall specify a training program and a date for transferring responsibilities for each division of work described in the plan, and shall be subject to the Contracting Officer's approval.
+
+The Contractor shall provide sufficient experienced personnel during the phase-in, phase-out period to ensure that the services called for by this contract are maintained at the required level of proficiency.
+
+(c) The Contractor shall allow as many personnel as practicable to remain on the job to help the successor maintain the continuity and consistency of the services required by this contract.
+
+The Contractor also shall disclose necessary personnel records and allow the successor to conduct on-site interviews with these employees.
+
+If selected employees are agreeable to the change, the Contractor shall release them at a mutually agreeable date and negotiate transfer of their earned fringe benefits to the successor.
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY 5 IC SOG SOW UNCLASSIFIED//FOR OFFICIAL USE ONLY (d) The Contractor shall be reimbursed for all reasonable phase-in, phase-out costs (i.e., costs incurred within the agreed period after contract expiration that result from phase-in, phase-out operations) and a fee (profit) not to exceed a pro rata portion of the fee (profit) under this contract.
+
+
+
+NEW SECTION-------------------------
+
+
+
+(U) Program Management, further noted in TTO-01: (U//FOUO) The Contractor shall provide program oversight to ensure the effective execution of the IC SOG contract to include:
+
+
+
+NEW SECTION-------------------------
+
+
+
+This contract lead shall: • Plan, resource, manage and execute each TTO • Meet personnel staffing level requirements • Confirm all contract deliverables (CDRLs) are delivered as required
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+Designate one person as contract QA lead (must be independent from the development and test teams) • QA lead shall review plans and procedures for accuracy and completeness • QA lead shall maintain a Discrepancy Log and bring to management attention any outstanding discrepancy
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+The Contractor shall provide maintenance for all software applications and services available on all security fabrics across the five IC stakeholders: Intelligence Community, National Defense, Homeland Security, Law UNCLASSIFIED//FOR OFFICIAL USE ONLY 7 IC SOG SOW UNCLASSIFIED//FOR OFFICIAL USE ONLY Enforcement and Diplomatic/Foreign Relations.
+
+The Contractor shall provide the following Operations and Maintenance services: • Operate and maintain IC SOG services in the existing service model, and support the evolution to new service models • Monitor and track usage of services and systems for vulnerabilities, usage, and security • Update Standard Operating Procedures (SOPs) and technical manuals • Provide periodic software license inventory and usage reports • Maintain office desktop and office automation services, system administration services, access control services, and software security updates • Deploy software version upgrades, security patches and product updates • Communicate schedule deployment of product and patch updates with effected users • Collect metrics and metrics analysis for reporting
+
+
+
+NEW SECTION-------------------------
+
+
+
+The Contractor shall maintain the Information Search and Discovery and associated services across the five IC stakeholders of the national security environment on all applicable fabrics.
+
+The Contractor shall: • Work with organizations to optimize their websites for content search, discovery and delivery • Operate and maintain search and discovery capabilities for content in Communities of Interest (COIs) • Maintain access control to validate users only access content for which they are authorized (clearance, compartments, etc.) • Maintain all service documentation, including user guides, technical operation and maintenance manuals, and assessment and authorization documentation • Work collaboratively with other organizations to integrate their information services to ensure interoperability with IC SOG search services • Operate and maintain these services in the existing service model, and facilitate the evolution to new service models • Provide metrics and analysis regarding usage, trends, and user value
+
+
+
+NEW SECTION-------------------------
+
+
+
+The Contractor shall maintain the Intelligence Community Applications Mall (Apps Mall) portfolio across the five IC stakeholders of the national security environment on all applicable fabrics.
+
+The Contractor shall: • Perform product delivery, quality testing and maintenance releases UNCLASSIFIED//FOR OFFICIAL USE ONLY 8 IC SOG SOW UNCLASSIFIED//FOR OFFICIAL USE ONLY • Facilitate communication between software developers and IT professionals for operational system deployments • Operate infrastructure across hardware and elastic software load balancing solutions in Government cloud and commercial cloud environments • Collaborate with the Service Desk to diagnose and resolve Apps Mall user issues
+
+
+
+NEW SECTION-------------------------
+
+
+
+(U) Service Desk, further noted in TTO-03: (U//FOUO) The Contractor shall operate a Service Desk for IC SOG to provide twenty-four hour, seven day a week (24/7) system and service monitoring and respond to all user service requests across the five IC stakeholders: Intelligence Community, National Defense, Homeland Security, Law Enforcement and Diplomatic/Foreign Relations.
+
+The Contractor shall: • Staff the Service Desk twenty four (24) hours a day, seven (7) days a week to respond to user requests • Provide health and status monitoring for IC SOG and ICITE systems, networks, data flows, servers, applications, and services • Provide Service Desk Tier 1 response to customer service requests (phone, email, fax, IM chat room, Intelink tickets)
+
+
+
+NEW SECTION-------------------------
+
+
+
+(U) Identity and Access Management (IdAM), further noted in TTO-04: (U//FOUO) The Contractor shall provide IdAM services which allow users and systems to access data for which they are cleared.
+
+The Contractor shall maintain the following IdAM services: • IC Full Service Directory • IC PKI Certificate Authority • DoD PKI Local Registration Authority • IC Digital Rights Management • IC Login • Common Services Attribute Service • Common Services node of the Unified Attribute and Authorization Service (UAAS) federation • Intelink-U Identity Federation • Intelink Passport The Contractor shall: • Maintain up-to-date technology and integration to ensure ongoing service improvement • Deploy updates to and patches of IdAM services UNCLASSIFIED//FOR OFFICIAL USE ONLY 9 IC SOG SOW UNCLASSIFIED//FOR OFFICIAL USE ONLY • Monitor, track and collect metrics on the usage of services for awareness of how the services are being used, by what service providers, what organizations, for what purposes, in what ways, with what technical standards, techniques, and results • Generate and update SOPs and technical documents • Conduct activities in compliance with applicable IC and federal standards
+
+
+
+NEW SECTION-------------------------
+
+
+
+(U) Services Migration, further noted in TTO-05: (U//FOUO) The Contractor shall migrate IC SOG functions and services on the Top Secret, Top Secret/Coalition, Secret, and Unclassified fabrics from legacy to target environments.
+
+(U//FOUO) The Contractor shall integrate services into Intelligence Community Information Technology Enterprise (IC ITE) components, and shall coordinate with these service providers to ensure the success of the transition: • IC Cloud • Enterprise Management Tools (EMT) • Desktop Environment (DTE) • Identification, Authentication, Authorization (IAA) (U//FOUO) For IC Cloud, EMT, DTE, and IAA migrations, the Contractor shall: • Follow procedures for the migration and convergence of IC SOG services • Follow plans and collaborate on schedule for identified migrations • Identify gaps in procedures/plans and update as applicable • Perform all required testing and evaluations for migration • Register services with appropriate security and authentication certificates according to standard regulatory procedures • Verify data integrity and user access to IC SOG services and usability of the service within the environment • Ensure all Government security and user authentication protocols are followed during migration • Ensure legacy file path re-direct during migration • Document all processes
+
+
+
+NEW SECTION-------------------------
+
+
+
+(U) Operational Security and Information Assurance, further noted in TTO- 06: (U//FOUO) The Contractor shall protect information and data from unauthorized access, use, disclosure, disruption, modification, perusal, inspection, recording or destruction, and manage risks related to the use, processing, storage, and transmission of information or data and the systems and processes used for those purposes.
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY 10 IC SOG SOW UNCLASSIFIED//FOR OFFICIAL USE ONLY The Contractor shall: • Maintain the protection, integrity, availability, authenticity, and confidentiality of data through the use of physical, technical and administrative controls • Provide security engineering services to include risk management, awareness, and mitigation strategies and implement quality control mechanisms • Manage the risk and security of IC SOG and Intelink computer systems and components connected the networks by complying with information security policies and procedures as established by the Government • Sustain and monitor information technology security mechanisms and collaborate with Information Security organizations
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+(U) The effort shall be performed at either Government or Contractor sites or a combination of both.
+
+(U//FOUO) For those tasks performed in Government facilities, the Government will provide on-site access to equipment customarily found in office spaces to include a telephone, desk, chair, storage cabinets, fax machine, copier, classified and unclassified computer systems, and classified storage facilities.
+
+Government facilities will be available for a maximum of 150 individuals at the Annapolis Junction site NBP304.
+
+
+
+NEW SECTION-------------------------
+
+
+
+(U) The contractor shall provide a complete staffing plan at the time of contract award.
+
+The plan shall demonstrate how the contractor will be fully staffed in 45 days after contract award.
+
+The contractor shall maintain staffing levels during unexpected mission related requirements, emergencies, or surge requirements, as part of normal operational contingencies.
+
+All work hour requirements shall be coordinated with the appropriate CO and CORs.
+
+(U) The contractor shall notify the CO and COR of any proposed personnel changes, as soon as the contractor is aware of such change and provide personnel replacements that meet the minimum personnel requirements of this SOW.
+
+The contractor shall provide a suitable replacement for staffing losses within 40 calendar days for non-key personnel.
+
+The contractor shall staff any key positions UNCLASSIFIED//FOR OFFICIAL USE ONLY 11 IC SOG SOW UNCLASSIFIED//FOR OFFICIAL USE ONLY within 15 calendar days of notification of change.
+
+For key personnel the contractor shall provide appropriate data (e.g., professional résumés) to establish the credentials and suitability of key personnel under consideration for assignment to the contract.
+
+(U) Below are the Key Personnel and the TTO to be supported: Key Personnel LCAT Program Manager (PM) II Comms/Network Engineer (CNE) II Database Administrator (DBA) II Help Desk (HD) I Help Desk (HD) II Help Desk (HD) III Information Sys Security Engineer II Information Sys Security Officer (ISSO) II Project Manager I Subject Matter Expert II Subject Matter Expert III System Administrator (SA) III System Engineer (SE) I System Engineer (SE) II System Engineer (SE) III (U) The TTOs shall provide site-specific and position-specific duty hours and possible shift work.
+
+(U) The contractor shall provide 24/7/365 on-call services.
+
+(U) The contractor PM shall be the primary interface between the contractor and the Government COR.
+
+
+
+NEW SECTION-------------------------
+
+
+
+(U) Unless approved by the COR, all Contractor personnel assigned to this contract must possess a current Intelligence Community TS/SI clearance for assignment to IC SOG Services IDIQ.
+
+The Contractor shall determine the initial minimum necessary employees with clearances needed to ensure a smooth uninterrupted transition between old and new contracts and with no interruption in IC SOG service.
+
+(U//FOUO) The Contractor shall fully comply with all security requirements established for this contract by the DD254 (Contractor Security Classification UNCLASSIFIED//FOR OFFICIAL USE ONLY 12 IC SOG SOW UNCLASSIFIED//FOR OFFICIAL USE ONLY Specification).
+
+The contractor shall submit, update, and maintain a current Contractor Position Roster Log (CPRL), G5573.
+
+Additionally, the Government COR will provide Form G9006, Classification Guidance, for the appropriate classification guidance as needed.
+
+All contractor personnel requiring access to classified information systems or material shall possess a current TS/SI clearance with a full scope polygraph.
+
+(U//FOUO) Contractor purchases of Information Technology (IT) (IT as defined by the Clinger-Cohen Act of 1996) and products of foreign origin (developed, manufactured, maintained or supported outside of the US or in the United States or its territories by an individual who is not a citizen of the United States or its territories) shall be subject to a Government risk assessment.
+
+The Government risk assessment will be performed prior to the Contractor purchasing items of this nature.
+
+The contractor may be required to implement risk mitigation countermeasures resulting from the Government’s assessment.
+
+Any such countermeasures will be provided by the Contracting Officer (CO).
+
+(U//FOUO) Contractor personnel shall comply with Operations Security (OPSEC) plans and policies provided by the Government.
+
+All subcontracts that require subcontractor employees to have access to classified information shall be subject to the same security concerns as set forth above.
+
+(U//FOUO) In addition, there may be further security requirements levied upon personnel who are supporting compartmented efforts.
+
+A list of personnel who require additional security compartments shall be provided to and approved by the Contracting Officer (CO) and the Contracting Officer’s Representative (COR) with a written justification, and will be notified by the COR upon security approval.
+
+(U//FOUO) Upon the completion of the IDIQ or when an assignee no longer requires access to program information, that individual shall be immediately debriefed and all access controls (keycards, passwords, access tabs) shall be turned in to the SSO or appropriate Government office.
+
+(U) The Government will provide access to relevant government organizations, information, and documentation, manuals, text briefs, and associated materials as required and available.
+
+Access shall be granted to classified networks as directed by the designated security authority.
+
+(U//FOUO) In order to preserve the anonymity of the ultimate users of the materials and services of the IC SOG services, all purchasing, shipping, and receiving shall not be directly or indirectly associated with the Government.
+
+The UNCLASSIFIED//FOR OFFICIAL USE ONLY 13 IC SOG SOW UNCLASSIFIED//FOR OFFICIAL USE ONLY Contractor shall facilitate all communication with vendors and subcontractors so that the interest of the Government is not acknowledged.
+
+(U) The Contractor shall comply with the following policy and directives when obtaining all hardware and software, to include open source software and freeware: • NSA/CSS Policy 6-10, Control and Management of Licensed or Copyrighted Software
+
+
+
+NEW SECTION-------------------------
+
+
+
+
+
+NEW SECTION-------------------------
+
+
+
+(U//FOUO) The Contractor shall be required to attend meetings, briefings, and perform other contract related tasks that require CONUS and OCONUS travel.
+
+
+
+NEW SECTION-------------------------
+
+
+
+(U) The Contractor shall provide personnel that are qualified to meet all requirements of the statement of work.
+
+Any training available at a commercial source shall be considered to be of general utility to the Contractor, and the training, labor and travel costs are not to be billed to the Government.
+
+(U) Training will be provided by the government only when such software/systems are uniquely designed/fabricated by, or for, the Government and such training is otherwise unavailable to the Contractor.
+
+Courses conducted by Government schools may be made available to Contractor personnel where it has been clearly determined by the Contracting Officer (in writing) that training on specialized or unique government equipment is essential in carrying out the terms of the contract and the training is otherwise unavailable from a commercial source.
+
+
+
+NEW SECTION-------------------------
+
+
+
+(U) The Contractor shall conform to all Section 508 requirements when developing, procuring, or maintaining electronic and information technology products or systems.
+
+(U) Intelink Search & Discovery: Intelink’s primary search service, consisting of multiple components, that establishes and supports a comprehensive index of IC and stakeholder content and will return the pages most relevant to search terms.
+
+Drag and drop text, photos or videos to bring together the media elements that will best illustrate a story.
+
+(U) URL Shortener: takes a long URL and provides a shorter URL for distribution that will redirect the user to the original URL.
+
+Utilizing this service, users will be able to track visitors to their site and gain valuable metrics.
+
+(U) World Clock: allows users to select multiple cities or locations and will display the current time in an analog or digital clock.
+
+If the user is logged in, the site will remember the selected clocks so they will appear the next time the user visits the page.
+
+(U) Contractor shall support IC SOG office operations by providing the IC SOG office desktop and office automation services, with associated system administration services, access control services, and software security updates.
+
+
+
+NEW SECTION-------------------------
+
+
+
+(U) Intelink Service Desk Technical Tier Strategy UNCLASSIFIED//FOR OFFICIAL USE ONLY 22 IC SOG SOW UNCLASSIFIED//FOR OFFICIAL USE ONLY (U) Tier I/Level 1 (T1/L1) customer support is responsible for basic customer issues and minor technical problems.
+
+• (U) Technical specialists in this group will handle straightforward and simple problems utilizing already established procedures, call trees and Intelink’s knowledge management system to either resolve or escalate the issue.
+
+Personnel at this level have a basic understanding of the product or service but may not have the experience/knowledge required for solving complex issues.
+
+When required, the technician will create incident reports in order to notify other business teams/units to satisfy user requests.
+
+Technicians will work to solve the problem with the customer when it becomes apparent that Tier I and/or Tier II technicians were unable to discover a solution.
+
+In some instances, the product cannot be salvaged and must be replaced.
+
+If it is determined that a problem can be solved, Tier III is responsible for identifying one or more courses of action, evaluating each of these courses in a test case environment, identifying their pros and cons, and implementing the government’s chosen solution to the problem while complying with the governance process.
+
+Contractor will be responsible for continuing troubleshooting and analysis as necessary.
+
+Within a corporate incident management system it is important to continue to track incidents even when they are being handled by a vendor and the Service Level Agreement (SLA) may have specific provision for this.
+
+(U//FOUO) By managing and providing the community's IT infrastructure and services as a single enterprise, the IC will not only be more efficient, but will also establish a powerful platform to deliver more innovative and secure technology to desktops at all levels across the intelligence enterprise.
+
+These new capabilities, with seamless and secure access to community-wide information, will positively and deeply change how users communicate, collaborate, and perform their mission.
+
+Developers from agencies within the IC will produce widgets and share them with users of other agencies via Apps Mall.
+
+(U//FOUO) Developers with widgets to deploy should do so in the staging instance first to test the widget(s) (functionality, interoperability, and access issues) before registering the widgets in the production Community Store.
+
+Every widget must provide and maintain the IC widget entrance criteria.
+
+(U//FOUO) Because DTE will be the common office automation desktop for IC personnel, the IC SOG expects to migrate to DTE services from its current locally- provided desktop services on the Top Secret fabric.
+
+(U//FOUO) Some IC SOG user-facing services may be migrated to DTE in some fashion.
+
+Future implementation phases will expand TS/SCI/NOFORN user access to include higher Community of Interest (COI) access control levels for security of data and user accessibility extended into 5-Eyes and TS/Coalition collateral domains.
+
+IC DTE will provide IC users a single set of login credentials to access e-mail, information- sharing databases, desktop video teleconference capabilities, as well as select mission applications, from any desktop in the IC.
+
+Initial desktop operations will only involve the Microsoft operating system and thin clients • (U) Access to a virtual desktop from the user's current legacy endpoint configuration • (U) A common directory service for user authentication, authorization, and Attribute-Based Access Control (ABAC).
+
+
+
+NEW SECTION-------------------------
+
+
+
